@@ -1,0 +1,134 @@
+/*
+Theme Name: %title%
+Description: The Wordpress theme for %title%.
+Author: Includable/Tom Schoffelen
+Author URI: http://www.includable.com/
+Version: 1.0
+
+Copyright 2013 Includable/Tom Schoffelen.
+*/
+
+/*
+- General
+- Typografy
+- Header
+- Navigation 
+- Content
+- Sidebar
+- Footer
+- Clearfix
+- Mobile
+*/
+
+
+/* ---------- General ---------- */
+
+html, body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    height: 100%;
+}
+
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+
+/* ---------- Typography ---------- */
+
+p {
+	line-height: 20px;
+	word-break: break-all;
+}
+
+a {
+	color: #0088CC;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	
+}
+
+ul {
+	
+}
+
+ol {
+	
+}
+
+li {
+	
+}
+
+
+/* ---------- Header ---------- */
+
+header {
+	
+}
+
+header .logo {
+	
+}
+
+
+/* ---------- Navigation ---------- */
+
+header nav {
+	
+}
+
+
+/* ---------- Content ---------- */
+
+.content {
+	
+}
+
+.content article {
+	
+}
+
+
+/* ---------- Sidebar ---------- */
+
+aside {
+	
+}
+
+
+/* ---------- Footer ---------- */
+
+footer {
+	
+}
+
+
+/* ---------- Clearfix ---------- */
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+
+/* ---------- Mobile ---------- */
+
+@media only screen and (max-width: 768px) {
+	
+}
